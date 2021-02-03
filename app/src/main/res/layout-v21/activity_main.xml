@@ -207,7 +207,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="15dp"
         android:backgroundTint="@color/black"
-        android:text="@string/minus"
+        android:text="@string/plus_minus"
         android:textColor="@color/azure"
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
